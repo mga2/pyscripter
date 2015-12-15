@@ -4997,82 +4997,82 @@ msgstr ""
 #. PyIDEMainForm..actlStandard..actEditorZoomIn..Hint
 #: frmPyIDEMain.dfm:2141
 msgid "Increase the font size of the editor"
-msgstr ""
+msgstr "Aumentar a fonte do editor"
 
 #. PyIDEMainForm..actlStandard..actEditorZoomOut..Caption
 #: frmPyIDEMain.dfm:2148
 msgid "Zoom &Out"
-msgstr ""
+msgstr "Zoom out"
 
 #. PyIDEMainForm..actlStandard..actEditorZoomOut..Hint
 #: frmPyIDEMain.dfm:2150
 msgid "Decrease the font size of the editor"
-msgstr ""
+msgstr "Diminuir a fonte do editor"
 
 #. PyIDEMainForm..actlStandard..actViewSplitEditorVer..Caption
 #: frmPyIDEMain.dfm:2157
 msgid "Split Editor Vertically"
-msgstr ""
+msgstr "Dividir o editor verticalmente"
 
 #. PyIDEMainForm..actlStandard..actViewSplitEditorVer..Hint
 #: frmPyIDEMain.dfm:2160
 msgid "Split the editor Windows vertically"
-msgstr ""
+msgstr "Dividir as janelas do editor verticalmente"
 
 #. PyIDEMainForm..actlStandard..actAddWatchAtCursor..Caption
 #: frmPyIDEMain.dfm:2166
 msgid "Add &Watch At Cursor"
-msgstr ""
+msgstr "Adicionar assistir na posição do cursor"
 
 #. PyIDEMainForm..actlStandard..actAddWatchAtCursor..Hint
 #: frmPyIDEMain.dfm:2169
 msgid "Add the expression at the editor current position as a watch"
-msgstr ""
+msgstr "Adicionar a expressão na posição atual do editor como assistir"
 
 #. PyIDEMainForm..actlStandard..actPythonReinitialize..Caption
 #: frmPyIDEMain.dfm:2176
 msgid "Reinitiali&ze Python engine"
-msgstr ""
+msgstr "Reinicializar engine Pyton"
 
 #. PyIDEMainForm..actlStandard..actPythonInternal..Caption
 #: frmPyIDEMain.dfm:2185
 msgid "&Internal"
-msgstr ""
+msgstr "Interno"
 
 #. PyIDEMainForm..actlStandard..actPythonInternal..Hint
 #: frmPyIDEMain.dfm:2190
 msgid "Use internal Python Engine"
-msgstr ""
+msgstr "Usar engine Pyton interna"
 
 #. PyIDEMainForm..actlStandard..actPythonRemote..Caption
 #: frmPyIDEMain.dfm:2197
 msgid "&Remote"
-msgstr ""
+msgstr "Remoto"
 
 #. PyIDEMainForm..actlStandard..actPythonRemote..Hint
 #: frmPyIDEMain.dfm:2201
 msgid "Use a remote Python engine"
-msgstr ""
+msgstr "Usar Engine Pyton remota"
 
 #. PyIDEMainForm..actlStandard..actPythonRemoteTk..Caption
 #: frmPyIDEMain.dfm:2208
 msgid "Remote (&Tk)"
-msgstr ""
+msgstr "Remoto"
 
 #. PyIDEMainForm..actlStandard..actPythonRemoteTk..Hint
 #: frmPyIDEMain.dfm:2212
 msgid "Use a remote Python engine for Tkinter applications"
-msgstr ""
+msgstr "Usar uma engine remota pyton para aplicações Tkinter"
 
 #. PyIDEMainForm..actlStandard..actPythonRemoteWx..Caption
 #: frmPyIDEMain.dfm:2219
 msgid "Remote (&Wx)"
-msgstr ""
+msgstr "Remoto"
 
 #. PyIDEMainForm..actlStandard..actPythonRemoteWx..Hint
 #: frmPyIDEMain.dfm:2223
 msgid "Use a remote Python engine for wxPython applications"
-msgstr ""
+msgstr "Usar uma engine Pyton remota para aplicações wxPython"
 
 #. PyIDEMainForm..actlStandard..actNewFile..Caption
 #: frmPyIDEMain.dfm:2228
@@ -5082,7 +5082,7 @@ msgstr "Novo arquivo..."
 #. PyIDEMainForm..actlStandard..actNewFile..Hint
 #: frmPyIDEMain.dfm:2230
 msgid "New file from template"
-msgstr ""
+msgstr "Novo arquivo do template"
 
 #. PyIDEMainForm..actlStandard..actNavWatches..Category
 #. PyIDEMainForm..actlStandard..actNavBreakpoints..Category
@@ -5103,164 +5103,164 @@ msgstr ""
 #: frmPyIDEMain.dfm:2315 frmPyIDEMain.dfm:2324 frmPyIDEMain.dfm:2333
 #: frmPyIDEMain.dfm:2395
 msgid "IDE Navigation"
-msgstr ""
+msgstr "Navegação IDE"
 
 #. PyIDEMainForm..actlStandard..actNavWatches..Hint
 #: frmPyIDEMain.dfm:2237
 msgid "Activate the Watches window"
-msgstr ""
+msgstr "Ativar a janela de assistir"
 
 #. PyIDEMainForm..actlStandard..actNavBreakpoints..Caption
 #: frmPyIDEMain.dfm:2244
 msgid "&BreakPoints"
-msgstr ""
+msgstr "&BreakPoints"
 
 #. PyIDEMainForm..actlStandard..actNavBreakpoints..Hint
 #: frmPyIDEMain.dfm:2246
 msgid "Activate the Breakpoints window"
-msgstr ""
+msgstr "Ativar a janela de BreakPoints"
 
 #. PyIDEMainForm..actlStandard..actNavInterpreter..Caption
 #: frmPyIDEMain.dfm:2253
 msgid "&Interpreter"
-msgstr ""
+msgstr "&Interpretador"
 
 #. PyIDEMainForm..actlStandard..actNavInterpreter..Hint
 #: frmPyIDEMain.dfm:2255
 msgid "Activate the Interpreter window"
-msgstr ""
+msgstr "Ativar a janela do interpretador"
 
 #. PyIDEMainForm..actlStandard..actNavVariables..Hint
 #: frmPyIDEMain.dfm:2264
 msgid "Activate the Variables window"
-msgstr ""
+msgstr "Ativar a janela das variáveis"
 
 #. PyIDEMainForm..actlStandard..actNavCallStack..Hint
 #: frmPyIDEMain.dfm:2273
 msgid "Activate the Call Stack window"
-msgstr ""
+msgstr "Ativar a janela Call Stack"
 
 #. PyIDEMainForm..actlStandard..actNavMessages..Caption
 #: frmPyIDEMain.dfm:2280
 msgid "&Messages "
-msgstr ""
+msgstr "&Mensagens"
 
 #. PyIDEMainForm..actlStandard..actNavMessages..Hint
 #: frmPyIDEMain.dfm:2282
 msgid "Activate the Messages window"
-msgstr ""
+msgstr "Ativar a janela das mensagens"
 
 #. PyIDEMainForm..actlStandard..actNavFileExplorer..Caption
 #: frmPyIDEMain.dfm:2289
 msgid "File E&xplorer"
-msgstr ""
+msgstr "E&xplorador de Arquivo"
 
 #. PyIDEMainForm..actlStandard..actNavFileExplorer..Hint
 #: frmPyIDEMain.dfm:2291
 msgid "Activate the File Explorer window"
-msgstr ""
+msgstr "Ativar a janela do explorador de arquivos"
 
 #. PyIDEMainForm..actlStandard..actNavCodeExplorer..Hint
 #: frmPyIDEMain.dfm:2300
 msgid "Activate the Code Explorer window"
-msgstr ""
+msgstr "Ativar a janela do explorador de códigos"
 
 #. PyIDEMainForm..actlStandard..actNavTodo..Caption
 #: frmPyIDEMain.dfm:2307
 msgid "&Todo List"
-msgstr ""
+msgstr "&TODO Lista"
 
 #. PyIDEMainForm..actlStandard..actNavTodo..Hint
 #. PyIDEMainForm..actlStandard..actNavUnitTests..Hint
 #: frmPyIDEMain.dfm:2309 frmPyIDEMain.dfm:2318
 msgid "Activate the Todo List window"
-msgstr ""
+msgstr "Ativar a janela TODO Lista"
 
 #. PyIDEMainForm..actlStandard..actNavOutput..Caption
 #: frmPyIDEMain.dfm:2325
 msgid "Command &Output"
-msgstr ""
+msgstr "Comando de &Saída"
 
 #. PyIDEMainForm..actlStandard..actNavOutput..Hint
 #: frmPyIDEMain.dfm:2327
 msgid "Activate the Command Output window"
-msgstr ""
+msgstr "Ativar a janela de comendo de saída"
 
 #. PyIDEMainForm..actlStandard..actNavEditor..Caption
 #: frmPyIDEMain.dfm:2334
 msgid "&Editor"
-msgstr ""
+msgstr "&Editor"
 
 #. PyIDEMainForm..actlStandard..actNavEditor..Hint
 #: frmPyIDEMain.dfm:2336
 msgid "Activate the Editor"
-msgstr ""
+msgstr "Ativar o editor"
 
 #. PyIDEMainForm..actlStandard..actExecSelection..Caption
 #: frmPyIDEMain.dfm:2343
 msgid "E&xecute selection"
-msgstr ""
+msgstr "E&xecutar seleção"
 
 #. PyIDEMainForm..actlStandard..actExecSelection..Hint
 #: frmPyIDEMain.dfm:2346
 msgid "Execute the editor selection"
-msgstr ""
+msgstr "Executar o editor de seleção"
 
 #. PyIDEMainForm..actlStandard..actViewSplitEditorHor..Caption
 #: frmPyIDEMain.dfm:2353
 msgid "Split Editor Horizontally"
-msgstr ""
+msgstr "Dividr editor horizontalmente"
 
 #. PyIDEMainForm..actlStandard..actViewSplitEditorHor..Hint
 #: frmPyIDEMain.dfm:2356
 msgid "Split the editor Windows horizontally"
-msgstr ""
+msgstr "Dividir as janelas do editor horizontalmente"
 
 #. PyIDEMainForm..actlStandard..actViewHideSecondEditor..Caption
 #: frmPyIDEMain.dfm:2362
 msgid "Hide Second Editor"
-msgstr ""
+msgstr "Esconder segundo editor"
 
 #. PyIDEMainForm..actlStandard..actViewHideSecondEditor..Hint
 #: frmPyIDEMain.dfm:2365
 msgid "Clear the editor"
-msgstr ""
+msgstr "Limpar o editor"
 
 #. PyIDEMainForm..actlStandard..actPostMortem..Caption
 #: frmPyIDEMain.dfm:2370
 msgid "&Post Mortem"
-msgstr ""
+msgstr "&Post Mortem"
 
 #. PyIDEMainForm..actlStandard..actPostMortem..Hint
 #: frmPyIDEMain.dfm:2373
 msgid "Enter post mortem analysis"
-msgstr ""
+msgstr "Entrar na análise Post Mortem"
 
 #. PyIDEMainForm..actlStandard..actViewCustomizeToolbars..Caption
 #: frmPyIDEMain.dfm:2379
 msgid "Customize..."
-msgstr ""
+msgstr "Customizar..."
 
 #. PyIDEMainForm..actlStandard..actViewCustomizeToolbars..Hint
 #: frmPyIDEMain.dfm:2382
 msgid "Customize the toolbars"
-msgstr ""
+msgstr "Customizar as barras de ferramentas"
 
 #. PyIDEMainForm..actlStandard..actViewProjectExplorer..Caption
 #. PyIDEMainForm..actlStandard..actNavProjectExplorer..Caption
 #: frmPyIDEMain.dfm:2387 frmPyIDEMain.dfm:2396
 msgid "&Project Explorer"
-msgstr ""
+msgstr "&Explorador de Projeto"
 
 #. PyIDEMainForm..actlStandard..actViewProjectExplorer..Hint
 #: frmPyIDEMain.dfm:2390
 msgid "View/Hide Project Explorer"
-msgstr ""
+msgstr "Mostrar/Esconder Explorador de Projeto"
 
 #. PyIDEMainForm..actlStandard..actNavProjectExplorer..Hint
 #: frmPyIDEMain.dfm:2399
 msgid "Activate the Project Explorer window"
-msgstr ""
+msgstr "Ativar a janela do Explorador de Projeto"
 
 #. PythonIIForm..Caption
 #. Programmer's name for it: SYNS_LangPythonInterpreter
@@ -5268,12 +5268,12 @@ msgstr ""
 #: frmPythonII.dfm:5 dmCommands.pas:2093 SynHighlighterPython.pas:1404
 #: SynHighlighterPython.pas:1405
 msgid "Python Interpreter"
-msgstr ""
+msgstr "Interpretador Python"
 
 #. PythonIIForm..DebugIDE........DocString.Strings
 #: frmPythonII.dfm:156
 msgid "Return the 8087 CW value"
-msgstr ""
+msgstr "Retornar o valor 8087 CW"
 
 #. PythonIIForm..InterpreterActionList..actCopyHistory..Category
 #. PythonIIForm..InterpreterActionList..actClearContents..Category
@@ -5282,180 +5282,180 @@ msgstr ""
 #: frmPythonII.dfm:297 frmPythonII.dfm:305 frmPythonII.dfm:313
 #: frmPythonII.dfm:322
 msgid "Interpreter"
-msgstr ""
+msgstr "Interpretador"
 
 #. PythonIIForm..InterpreterActionList..actCopyHistory..Caption
 #: frmPythonII.dfm:298
 msgid "Copy &History"
-msgstr ""
+msgstr "Copiar &Histórico"
 
 #. PythonIIForm..InterpreterActionList..actCopyHistory..Hint
 #: frmPythonII.dfm:300
 msgid "Copy history to Clipboard"
-msgstr ""
+msgstr "Copiar histórico para o clipboard"
 
 #. PythonIIForm..InterpreterActionList..actClearContents..Caption
 #: frmPythonII.dfm:306
 msgid "Clear &All"
-msgstr ""
+msgstr "Limpar &tudo"
 
 #. PythonIIForm..InterpreterActionList..actClearContents..Hint
 #: frmPythonII.dfm:308
 msgid "Clear all interpreter output"
-msgstr ""
+msgstr "Limpar toda a saída do interpretador"
 
 #. PythonIIForm..InterpreterActionList..actCopyWithoutPrompts..Caption
 #: frmPythonII.dfm:314
 msgid "Copy (&No Prompts)"
-msgstr ""
+msgstr "Copiar (&sem prompts)"
 
 #. PythonIIForm..InterpreterActionList..actCopyWithoutPrompts..Hint
 #: frmPythonII.dfm:316
 msgid "Copy selected text without the interpreter prompts"
-msgstr ""
+msgstr "Copiar texto selecionado sem prompts do interpretador"
 
 #. PythonIIForm..InterpreterActionList..actPasteWithPrompt..Caption
 #: frmPythonII.dfm:323
 msgid "Paste (&With Prompts)"
-msgstr ""
+msgstr "Colar (&com prompts)"
 
 #. PythonIIForm..InterpreterActionList..actPasteWithPrompt..Hint
 #: frmPythonII.dfm:325
 msgid "Paste clipboard text with added interpreter prompts"
-msgstr ""
+msgstr "Colar texto do clipboard com promps do interpretador adicionados"
 
 #. RegExpTesterWindow..Caption
 #: frmRegExpTester.dfm:3
 msgid "Regular Expressions"
-msgstr ""
+msgstr "Expressões regulares"
 
 #. RegExpTesterWindow..FGPanel..TBXDock..RegExpTesterToolbar..TiClear..Hint
 #: frmRegExpTester.dfm:78
 msgid "Clear all fields"
-msgstr ""
+msgstr "Limpar todos os campos"
 
 #. RegExpTesterWindow..FGPanel..TBXDock..RegExpTesterToolbar..TBXSubmenuItem2..CI_DOTALL..Hint
 #: frmRegExpTester.dfm:87
 msgid "Sets the DOTALL re flag"
-msgstr ""
+msgstr "Configurar o DOTALL re flag"
 
 #. RegExpTesterWindow..FGPanel..TBXDock..RegExpTesterToolbar..TBXSubmenuItem2..CI_IGNORECASE..Hint
 #: frmRegExpTester.dfm:94
 msgid "Sets the IGNORECASE re flag"
-msgstr ""
+msgstr "Configurar o IGNORECASE re flag"
 
 #. RegExpTesterWindow..FGPanel..TBXDock..RegExpTesterToolbar..TBXSubmenuItem2..CI_LOCALE..Hint
 #: frmRegExpTester.dfm:101
 msgid "Sets the LOCALE re flag"
-msgstr ""
+msgstr "Configurar o LOCALE re flag"
 
 #. RegExpTesterWindow..FGPanel..TBXDock..RegExpTesterToolbar..TBXSubmenuItem2..CI_MULTILINE..Hint
 #: frmRegExpTester.dfm:108
 msgid "Sets the MULTILINE re flag"
-msgstr ""
+msgstr "Configurar o MULTILINE re flag"
 
 #. RegExpTesterWindow..FGPanel..TBXDock..RegExpTesterToolbar..TBXSubmenuItem2..CI_UNICODE..Hint
 #: frmRegExpTester.dfm:115
 msgid "Sets the UNICODE re flag"
-msgstr ""
+msgstr "Configurar o UNICODE re flag"
 
 #. RegExpTesterWindow..FGPanel..TBXDock..RegExpTesterToolbar..TBXSubmenuItem2..CI_VERBOSE..Hint
 #: frmRegExpTester.dfm:122
 msgid "Sets the VERBOSE re flag"
-msgstr ""
+msgstr "Configurar o VERBOSE re flag"
 
 #. RegExpTesterWindow..FGPanel..TBXDock..RegExpTesterToolbar..TBXSubmenuItem2..RI_Match..Caption
 #: frmRegExpTester.dfm:130
 msgid "Match"
-msgstr ""
+msgstr "Encontrar"
 
 #. RegExpTesterWindow..FGPanel..TBXDock..RegExpTesterToolbar..TBXSubmenuItem2..RI_Match..Hint
 #: frmRegExpTester.dfm:131
 msgid "Performs re.match"
-msgstr ""
+msgstr "Realizar um re.match"
 
 #. RegExpTesterWindow..FGPanel..TBXDock..RegExpTesterToolbar..TBXSubmenuItem2..RI_Search..Hint
 #: frmRegExpTester.dfm:139
 msgid "Performs re.search"
-msgstr ""
+msgstr "Realizar um re.search"
 
 #. RegExpTesterWindow..FGPanel..TBXDock..RegExpTesterToolbar..TBXSubmenuItem2..CI_AutoExecute..Caption
 #: frmRegExpTester.dfm:149
 msgid "Auto Execute"
-msgstr ""
+msgstr "Auto executar"
 
 #. RegExpTesterWindow..FGPanel..TBXDock..RegExpTesterToolbar..TIExecute..Caption
 #: frmRegExpTester.dfm:157
 msgid "Execute"
-msgstr ""
+msgstr "Executar"
 
 #. RegExpTesterWindow..FGPanel..TBXDock..RegExpTesterToolbar..TIExecute..Hint
 #: frmRegExpTester.dfm:158
 msgid "Execute search or match"
-msgstr ""
+msgstr "Executar encontrar ou buscar"
 
 #. RegExpTesterWindow..FGPanel..TBXDock..RegExpTesterToolbar..tiHelp..Hint
 #: frmRegExpTester.dfm:166
 msgid "Show Python Help on the re module"
-msgstr ""
+msgstr "Mostrar ajuda do Python sobre o módulo re"
 
 #. RegExpTesterWindow..FGPanel..StatusBar..lbStatusBar..Caption
 #: frmRegExpTester.dfm:180
 msgid "Not executed"
-msgstr ""
+msgstr "Não executado"
 
 #. RegExpTesterWindow..FGPanel..pnlBackground..dpGroupsView..TBXLabel1..Caption
 #: frmRegExpTester.dfm:205
 msgid "Groups:"
-msgstr ""
+msgstr "Grupos:"
 
 #. RegExpTesterWindow..FGPanel..pnlBackground..dpGroupsView..GroupsView......WideText
 #. VariablesWindow..FGPanel..VariablesTree......WideText
 #: frmRegExpTester.dfm:251 frmVariables.dfm:87
 msgid "Name"
-msgstr ""
+msgstr "Nome"
 
 #. RegExpTesterWindow..FGPanel..pnlBackground..dpGroupsView..GroupsView......WideText
 #. VariablesWindow..FGPanel..VariablesTree......WideText
 #. WatchesWindow..FGPanel..WatchesView......WideText
 #: frmRegExpTester.dfm:257 frmVariables.dfm:97 frmWatches.dfm:90
 msgid "Value"
-msgstr ""
+msgstr "Valor"
 
 #. RegExpTesterWindow..FGPanel..pnlBackground..dpRegExpText..TBXLabel3..Caption
 #: frmRegExpTester.dfm:281
 msgid "Regular Expression"
-msgstr ""
+msgstr "Expressão regular"
 
 #. RegExpTesterWindow..FGPanel..pnlBackground..pnlMiddle..dpSearchText..TBXLabel4..Caption
 #: frmRegExpTester.dfm:354
 msgid "Search Text:"
-msgstr ""
+msgstr "Buscar texto:"
 
 #. RegExpTesterWindow..FGPanel..pnlBackground..pnlMiddle..dpMatchText..TBXLabel2..Caption
 #: frmRegExpTester.dfm:418
 msgid "Match:"
-msgstr ""
+msgstr "Encontrar:"
 
 #. ToDoWindow..Caption
 #: frmToDo.dfm:5
 msgid "To Do List"
-msgstr ""
+msgstr "Lista à fazer"
 
 #. ToDoWindow..FGPanel..ToDoView......WideText
 #: frmToDo.dfm:184
 msgid "Description"
-msgstr ""
+msgstr "Descrição"
 
 #. ToDoWindow..Actions..actFileRefresh..Hint
 #: frmToDo.dfm:518
 msgid "Refresh to do items"
-msgstr ""
+msgstr "Atualizar lista à fazer"
 
 #. ToDoWindow..Actions..actEditGoto..Hint
 #: frmToDo.dfm:526
 msgid "Goto source line"
-msgstr ""
+msgstr "Ir para a linha fonte"
 
 #. ToDoWindow..Actions..actFilePrint..Caption
 #: frmToDo.dfm:532
@@ -5465,57 +5465,57 @@ msgstr "&Imprimir"
 #. ToDoWindow..Actions..actFilePrint..Hint
 #: frmToDo.dfm:533
 msgid "Print to do items"
-msgstr ""
+msgstr "Imprimir itens da lista à fazer"
 
 #. ToDoWindow..Actions..actOptionsConfigure..Caption
 #: frmToDo.dfm:541
 msgid "&Options..."
-msgstr ""
+msgstr "&Opções..."
 
 #. ToDoWindow..Actions..actEditCopy..Caption
 #: frmToDo.dfm:555
 msgid "&Copy All"
-msgstr ""
+msgstr "&Copiar tudo"
 
 #. ToDoWindow..Actions..actEditCopy..Hint
 #: frmToDo.dfm:556
 msgid "Copy all"
-msgstr ""
+msgstr "Copiar tudo"
 
 #. ToDoWindow..Actions..actFileAbort..Hint
 #: frmToDo.dfm:565
 msgid "Abort search for todo items"
-msgstr ""
+msgstr "Abortar busca por itens à fazer"
 
 #. UnitTestWindow..Caption
 #: frmUnitTests.dfm:3
 msgid "Unit Tests"
-msgstr ""
+msgstr "Testes de unidade"
 
 #. UnitTestWindow..FGPanel..Panel2..Label2..Caption
 #: frmUnitTests.dfm:217
 msgid "Error Message:"
-msgstr ""
+msgstr "Mensagem de erro:"
 
 #. UnitTestWindow..FGPanel..Panel2..ModuleName..Caption
 #: frmUnitTests.dfm:224
 msgid "No Module Loaded"
-msgstr ""
+msgstr "Sem módulo carregado"
 
 #. UnitTestWindow..FGPanel..Panel2..lbFoundTests..Caption
 #: frmUnitTests.dfm:231
 msgid "Found 0 tests"
-msgstr ""
+msgstr "Encontrado 0 testes"
 
 #. UnitTestWindow..FGPanel..Panel2..lblRunTests..Caption
 #: frmUnitTests.dfm:240
 msgid "Run 0 tests"
-msgstr ""
+msgstr "Executado 0 testes"
 
 #. UnitTestWindow..FGPanel..Panel2..lblFailures..Caption
 #: frmUnitTests.dfm:247
 msgid "Failures/Errors : 0/0"
-msgstr ""
+msgstr "Erros/Falhas: 0/0"
 
 #. UnitTestWindow..DialogActions..actRefresh..Category
 #. UnitTestWindow..DialogActions..actRun..Category
@@ -5524,457 +5524,459 @@ msgstr ""
 #: frmUnitTests.dfm:538 frmUnitTests.dfm:545 frmUnitTests.dfm:552
 #: frmUnitTests.dfm:594
 msgid "Commands"
-msgstr ""
+msgstr "Comandos"
 
 #. UnitTestWindow..DialogActions..actRefresh..Hint
 #: frmUnitTests.dfm:540
 msgid "Refresh tests|Extract tests from active module"
-msgstr ""
+msgstr "Atualizar testes|Extrair testes do módulo ativo"
 
 #. UnitTestWindow..DialogActions..actRun..Hint
 #: frmUnitTests.dfm:547
 msgid "Run selected tests"
-msgstr ""
+msgstr "Rodar testes selecionados"
 
 #. UnitTestWindow..DialogActions..actStop..Caption
 #: frmUnitTests.dfm:553
 msgid "&Stop"
-msgstr ""
+msgstr "&Parar"
 
 #. UnitTestWindow..DialogActions..actStop..Hint
 #: frmUnitTests.dfm:554
 msgid "Stop Testing"
-msgstr ""
+msgstr "Parar testes"
 
 #. UnitTestWindow..DialogActions..actSelectAll..Hint
 #: frmUnitTests.dfm:561
 msgid "Select all tests"
-msgstr ""
+msgstr "Selecionar todos os testes"
 
 #. UnitTestWindow..DialogActions..actDeselectAll..Hint
 #: frmUnitTests.dfm:568
 msgid "Deselect all tests"
-msgstr ""
+msgstr "Deselecionar todos os testes"
 
 #. UnitTestWindow..DialogActions..actSelectFailed..Caption
 #: frmUnitTests.dfm:574
 msgid "Select Fai&led"
-msgstr ""
+msgstr "Selecionar fa&lhas"
 
 #. UnitTestWindow..DialogActions..actSelectFailed..Hint
 #: frmUnitTests.dfm:575
 msgid "Select all failed tests"
-msgstr ""
+msgstr "Selecionar todos os testes falhos"
 
 #. UnitTestWindow..DialogActions..actExpandAll..Caption
 #: frmUnitTests.dfm:581
 msgid "Ex&pand All"
-msgstr ""
+msgstr "Ex&pandir tudo"
 
 #. UnitTestWindow..DialogActions..actExpandAll..Hint
 #: frmUnitTests.dfm:582
 msgid "Expand all test nodes"
-msgstr ""
+msgstr "Expandir todos os nós de teste"
 
 #. UnitTestWindow..DialogActions..actCollapseAll..Hint
 #: frmUnitTests.dfm:589
 msgid "Collapse all test nodes"
-msgstr ""
+msgstr "Retrair todos os nós de teste"
 
 #. UnitTestWindow..DialogActions..actClearAll..Caption
 #: frmUnitTests.dfm:595
 msgid "&Clear All"
-msgstr ""
+msgstr "&Limpar tudo"
 
 #. UnitTestWindow..DialogActions..actClearAll..Hint
 #: frmUnitTests.dfm:596
 msgid "Clear all tests"
-msgstr ""
+msgstr "Limpar todos os testes"
 
 #. VariablesWindow..Caption
 #: frmVariables.dfm:5
 msgid "Variables"
-msgstr ""
+msgstr "Variáveis"
 
 #. VariablesWindow..FGPanel..VariablesTree......WideText
 #: frmVariables.dfm:92
 msgid "Type"
-msgstr ""
+msgstr "Tipo"
 
 #. WatchesWindow..Caption
 #. WatchesWindow..FGPanel..WatchesView......WideText
 #: frmWatches.dfm:5 frmWatches.dfm:85
 msgid "Watches"
-msgstr ""
+msgstr "Vigília"
 
 #. WatchesWindow..TBXPopupMenu..mnAddWatch..Caption
 #: frmWatches.dfm:100
 msgid "&Add Watch"
-msgstr ""
+msgstr "&Adicionar vigílias"
 
 #. WatchesWindow..TBXPopupMenu..mnRemoveWatch..Caption
 #: frmWatches.dfm:108
 msgid "&Remove Watch"
-msgstr ""
+msgstr "&Remover vigílias"
 
 #. WatchesWindow..TBXPopupMenu..mnEditWatch..Caption
 #: frmWatches.dfm:113
 msgid "&Edit Watch"
-msgstr ""
+msgstr "&Editar vigílias"
 
 #. WatchesWindow..TBXPopupMenu..mnClearall..Hint
 #: frmWatches.dfm:121
 msgid "Clear all watches"
-msgstr ""
+msgstr "Limpar todas as vigílias"
 
 #. Programmer's name for it: SNoFileOpen
 #: cFindInFiles.pas:367
 msgid "No editor is currently active"
-msgstr ""
+msgstr "Nenhum editor está atualmente ativo"
 
 #. Programmer's name for it: SAskReplaceText
 #: dlgConfirmReplace.pas:71
 msgid "Replace this occurence of \"%s\"?"
-msgstr ""
+msgstr "Substituir esta ocorrência de \"%s\"?"
 
 #. Programmer's name for it: RsSendBugReportSubject
 #: dlgExceptionMail.pas:122
 msgid "PyScripter Bug Report"
-msgstr ""
+msgstr "PyScripter Bug Report"
 
 #. Programmer's name for it: SGrepResultsNotActive
 #: dlgReplaceInFiles.pas:108
 msgid "The Find in Files Results window is not active"
-msgstr ""
+msgstr "A busca na janela dos resultados de arquivo não está ativa"
 
 #: dmCommands.pas:2067
 msgid "IDE"
-msgstr ""
+msgstr "IDE"
 
 #: dmCommands.pas:2070
 msgid "Check for updates automatically"
-msgstr ""
+msgstr "Checar por atualizações automaticamente"
 
 #: dmCommands.pas:2072
 msgid "Days between update checks"
-msgstr ""
+msgstr "Dias entre as checagens de atualização"
 
 #: dmCommands.pas:2074
 msgid "Mask FPU Exceptions"
-msgstr ""
+msgstr "Mascarar exceções FPU"
 
 #: dmCommands.pas:2076
 msgid "Editor tab position"
-msgstr ""
+msgstr "Posição da aba do editor"
 
 #: dmCommands.pas:2078
 msgid "Smart Next Previous Page"
-msgstr ""
+msgstr "Página próximo anterior inteligente"
 
 #: dmCommands.pas:2080
 msgid "Show tab close button"
-msgstr ""
+msgstr "Mostrar botão de fechar aba"
 
 #: dmCommands.pas:2082
 msgid "Dock animation interval (ms)"
-msgstr ""
+msgstr "Intevalo de animação do dock (ms)"
 
 #: dmCommands.pas:2084
 msgid "Dock animation move width (pixels)"
-msgstr ""
+msgstr "Largura de movimento da animação do dock (ms)"
 
 #: dmCommands.pas:2086
 msgid "File template for new python scripts"
-msgstr ""
+msgstr "Template de arquivo para novos scripts python"
 
 #: dmCommands.pas:2088
 msgid "Auto completion font"
-msgstr ""
+msgstr "Fonte de auto completar"
 
 #: dmCommands.pas:2090
 msgid "Use Python colors in IDE"
-msgstr ""
+msgstr "Usar cores python na IDE"
 
 #: dmCommands.pas:2096
 msgid "Save files before run"
-msgstr ""
+msgstr "Salvar arquivos antes de executar"
 
 #: dmCommands.pas:2098
 msgid "Save environment before run"
-msgstr ""
+msgstr "Salvar ambiente antes de executar"
 
 #: dmCommands.pas:2100
 msgid "Timeout for running scripts in ms"
-msgstr ""
+msgstr "Intervalo para executar scripts em ms"
 
 #: dmCommands.pas:2102
 msgid "UTF8 in interactive interpreter"
-msgstr ""
+msgstr "UTF8 no interpretador interativo"
 
 #: dmCommands.pas:2104
 msgid "Python engine type"
-msgstr ""
+msgstr "Tipo de engine python"
 
 #: dmCommands.pas:2106
 msgid "Pretty print output"
-msgstr ""
+msgstr "Saída de impressão estilizada"
 
 #: dmCommands.pas:2108
 msgid "Clear output before run"
-msgstr ""
+msgstr "Limpar saída antes de sair"
 
 #: dmCommands.pas:2110
 msgid "Post-mortem on exception"
-msgstr ""
+msgstr "Post-mortem na excessão"
 
 #: dmCommands.pas:2112
 msgid "Interpreter history size"
-msgstr ""
+msgstr "Tamanho do histórico do interpretador"
 
 #: dmCommands.pas:2114
 msgid "Save interpreter history"
-msgstr ""
+msgstr "Salvar histórico do interpretador"
 
 #: dmCommands.pas:2116
 msgid "Reinitialize before run"
-msgstr ""
+msgstr "Reinicializar antes de executar"
 
 #: dmCommands.pas:2118
 msgid "Jump to error on exception"
-msgstr ""
+msgstr "Pular para o erro na excessão"
 
 #: dmCommands.pas:2124
 msgid "Initially expanded"
-msgstr ""
+msgstr "Inicializar expandido"
 
 #: dmCommands.pas:2127
 msgid "File Filters"
-msgstr ""
+msgstr "Filtro de arquivos"
 
 #: dmCommands.pas:2130
 msgid "Open dialog Python filter"
-msgstr ""
+msgstr "Abrir diálogo do filtro python"
 
 #: dmCommands.pas:2132
 msgid "Open dialog HTML filter"
-msgstr ""
+msgstr "Abrir diálogo do filtro HTML"
 
 #: dmCommands.pas:2134
 msgid "Open dialog XML filter"
-msgstr ""
+msgstr "Abrir diálogo do filtro XML"
 
 #: dmCommands.pas:2136
 msgid "Open dialog CSS filter"
-msgstr ""
+msgstr "Abrir diálogo do filtro CSS"
 
 #: dmCommands.pas:2138
 msgid "Open dialog CPP filter"
-msgstr ""
+msgstr "Abrir diálogo do filtro CPP"
 
 #: dmCommands.pas:2140
 msgid "Open dialog YAML filter"
-msgstr ""
+msgstr "Abrir diálogo do filtro YAML"
 
 #: dmCommands.pas:2142
 msgid "Open dialog JavaScript filter"
-msgstr ""
+msgstr "Abrir diálogo do filtro JavaScript"
 
 #: dmCommands.pas:2144
 msgid "Open dialog PHP filter"
-msgstr ""
+msgstr "Abrir diálogo do filtro PHP"
 
 #: dmCommands.pas:2146
 msgid "File explorer filter"
-msgstr ""
+msgstr "Filtro do explorador de arquivos"
 
 #: dmCommands.pas:2152
 msgid "Restore open files"
-msgstr ""
+msgstr "Restaurar arquivos abertos"
 
 #: dmCommands.pas:2154
 msgid "Search text at caret"
-msgstr ""
+msgstr "Buscar texto no circunflêxo"
 
 #: dmCommands.pas:2156
 msgid "Create backup files"
-msgstr ""
+msgstr "Criar arquivos de backup"
 
 #: dmCommands.pas:2158
 msgid "Undo after save"
-msgstr ""
+msgstr "Desfazer após salvar"
 
 #: dmCommands.pas:2160
 msgid "Show code hints"
-msgstr ""
+msgstr "Mostrar dicas de código"
 
 #: dmCommands.pas:2162
 msgid "Show debugger hints"
-msgstr ""
+msgstr "Mostrar dicas debugger"
 
 #: dmCommands.pas:2164
 msgid "Auto-complete brackets"
-msgstr ""
+msgstr "Auto completar brackets"
 
 #: dmCommands.pas:2166
 msgid "Show executable line marks"
-msgstr ""
+msgstr "Mostrar marcos de linha executáveis"
 
 #: dmCommands.pas:2168
 msgid "Check syntax as you type"
-msgstr ""
+msgstr "Checar síntaxe enquanto escreve"
 
 #: dmCommands.pas:2170
 msgid "Default line break format for new files"
-msgstr ""
+msgstr "Formato de quebra de linha padrão para novos arquivos"
 
 #: dmCommands.pas:2172
 msgid "Default file encoding for new files"
-msgstr ""
+msgstr "Codificação de arquivo padrão para novos arquivos"
 
 #: dmCommands.pas:2174
 msgid "Detect UTF-8 encoding when opening files"
-msgstr ""
+msgstr "Detectar codificação UTF-8 ao abrir arquivos"
 
 #: dmCommands.pas:2176
 msgid "Auto-reload changed files"
-msgstr ""
+msgstr "Carregar automaticamente arquivos modificados"
 
 #: dmCommands.pas:2178
 msgid "Auto-hide find toolbar"
-msgstr ""
+msgstr "Esconder automaticamente barra de ferramentas de busca"
 
 #: dmCommands.pas:2180
 msgid "Highlight selected word"
-msgstr ""
+msgstr "Destacar palavra selecionada"
 
 #: dmCommands.pas:2183
 msgid "Code Completion"
-msgstr ""
+msgstr "Completar código"
 
 #: dmCommands.pas:2186
 msgid "Special packages"
-msgstr ""
+msgstr "Pacotes especiais"
 
 #: dmCommands.pas:2188
 msgid "Code completion list size"
-msgstr ""
+msgstr "Tamanho da lista de completar código"
 
 #: dmCommands.pas:2190
 msgid "Editor code completion"
-msgstr ""
+msgstr "Editor de completar código"
 
 #: dmCommands.pas:2192
 msgid "Interpreter code completion"
-msgstr ""
+msgstr "Interpretador de completar código"
 
 #: dmCommands.pas:2195
 msgid "Shell Integration"
-msgstr ""
+msgstr "Integração shell"
 
 #: dmCommands.pas:2198
 msgid "File Explorer context menu"
-msgstr ""
+msgstr "Menu de contexto do explorador de arquivos"
 
 #. Programmer's name for it: S_ERROR_NO_ERROR_STRING
 #: dmCommands.pas:3126
 msgid "Unspecified WinInet error"
-msgstr ""
+msgstr "Erro WinInet não especificado"
 
 #. Programmer's name for it: SAllString
 #: frmFunctionList.pas:159
 msgid "<All>"
-msgstr ""
+msgstr "<Todos>"
 
 #. Programmer's name for it: SNoneString
 #: frmFunctionList.pas:160
 msgid "<None>"
-msgstr ""
+msgstr "<Nenhum>"
 
 #. Programmer's name for it: SParseStatistics
 #: frmFunctionList.pas:164
 msgid "Module processed in %g seconds"
-msgstr ""
+msgstr "Módulo processado em %g segundos"
 
 #: frmModSpTBXCustomize.pas:188
 msgid ""
 "This option will reset IDE toolbars and shortcuts to the factory settings.\n"
 "Do you want to proceed?"
 msgstr ""
+"Esta opção irá resetar as barras de ferramenta e atalhos da IDE para as opções padrão.\n"
+"Deseja continuar?"
 
 #: frmPyIDEMain.pas:1944
 msgid "Debug"
-msgstr ""
+msgstr "Debug"
 
 #. Programmer's name for it: SDone
 #. Programmer's name for it: SDoneTodoDesignation
 #: frmToDo.pas:268 frmToDo.pas:551
 msgid "Done"
-msgstr ""
+msgstr "Feito"
 
 #. Programmer's name for it: STodoItems
 #: frmToDo.pas:282
 msgid "To Do Items"
-msgstr ""
+msgstr "Itens a fazer"
 
 #. Programmer's name for it: SInternalError
 #: StringResources.pas:6
 msgid "Internal Error in %s"
-msgstr ""
+msgstr "Erro interno em %s"
 
 #. Programmer's name for it: SNotFound
 #: StringResources.pas:7
 msgid "\"%s\" not found"
-msgstr ""
+msgstr "\"%s\" não encontrado"
 
 #. Programmer's name for it: SItemsReplaced
 #: StringResources.pas:8
 msgid "%d items found and %d\" items replaced"
-msgstr ""
+msgstr "%d itens encontrados e %d\" itens substituídos"
 
 #. Programmer's name for it: SNotAvailable
 #: StringResources.pas:9
 msgid "n/a"
-msgstr ""
+msgstr "n/a"
 
 #. Programmer's name for it: SNotImplented
 #: StringResources.pas:10
 msgid "Not implemented"
-msgstr ""
+msgstr "Não implementado"
 
 #. Programmer's name for it: SFailedToBackupFile
 #: StringResources.pas:11
 msgid "Failed to backup file \"%s\""
-msgstr ""
+msgstr "Falha ao fazer backup do arquivo \"%s\""
 
 #. Programmer's name for it: SFilterAllFiles
 #: StringResources.pas:12
 msgid "All files|*.*|"
-msgstr ""
+msgstr "Todos os arquivos|*.*|"
 
 #. Programmer's name for it: SNoParameters
 #: StringResources.pas:13
 msgid "** No/Unknown parameters **"
-msgstr ""
+msgstr "** Sem parâmetros / parâmetros desconhecidos"
 
 #. Programmer's name for it: SInvalidRegularExpression
 #: StringResources.pas:14
 msgid "Invalid Regular Expression: %s"
-msgstr ""
+msgstr "Expressão regular inválida: %s"
 
 #. Programmer's name for it: SEmptyList
 #: StringResources.pas:15
 msgid "(Empty List)"
-msgstr ""
+msgstr "(Lista vazia)"
 
 #. Programmer's name for it: SCommandLineMsg
 #: StringResources.pas:16
 msgid "Command Line : %s\n"
-msgstr ""
+msgstr "Linha de comando: %s\n"
 
 #. Programmer's name for it: SEngineActive
 #: StringResources.pas:17
 msgid "*** %s Python engine %s is active ***"
-msgstr ""
+msgstr "*** %s Engine Python %s está ativo ***"
 
 #. Programmer's name for it: SEngineActive
 #: StringResources.pas:25
@@ -5991,6 +5993,17 @@ msgid ""
 "Also check the PYTHONHOME and PYTHONPATH environment variables to see "
 "whether they conflict with the Python version used."
 msgstr ""
+"PyScripter não pode encontrar os módulos da biblioteca padrão do Python.\n"
+"Parece ser um erro de instalação Python. Favor checar Windows "
+"Registry key \n"
+"    HKEY_LOCAL_MACHINE\\SOFTWARE\\Python\\PythonCore\\x.y  or \n"
+"    HKEY_CURRENT_USER\\SOFTWARE\\Python\\PythonCore\\x.y\n"
+"para instalação Python de apenas um usuário (\"x.y\" representa a versão "
+"do Python).\n"
+"Numa instalação adequada a chave deve existir e \"InstallPath\" e "
+"\"PythonPath\" definidos.\n"
+"Também checar variáveis de ambiente PYTHONHOME e PYTHONPATH para ver "
+"se elas estão em conflito com a versão do Python usada."
 
 #. Programmer's name for it: SPostMortemInfo
 #: StringResources.pas:28
